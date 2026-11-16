@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # InsightIQ – AI-Powered Data Analytics Assistant
 
 ## Overview
@@ -175,3 +176,7 @@ The goal of InsightIQ is to make data analytics more accessible by combining art
 ---
 
 **InsightIQ – Ask Questions. Discover Insights. Make Better Decisions.**
+=======
+# InsightIQ
+AI-powered data analytics assistant using Gemini, LangGraph and DuckDB
+>>>>>>> 71c5fdfae2ffd92ddb0800e927a6e43789d1eb87
