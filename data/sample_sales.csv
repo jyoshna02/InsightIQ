@@ -1,0 +1,12 @@
+
+Order_ID,Order_Date,Product,Category,Region,Quantity,Unit_Price,Sales,Profit
+101,2025-01-05,Laptop,Electronics,South,2,50000,100000,12000
+102,2025-01-08,Mouse,Accessories,North,5,500,2500,500
+103,2025-01-12,Keyboard,Accessories,East,3,1200,3600,800
+104,2025-02-02,Mobile,Electronics,West,4,15000,60000,9000
+105,2025-02-10,Monitor,Electronics,South,2,12000,24000,4000
+106,2025-02-15,Mouse,Accessories,East,10,500,5000,1000
+107,2025-03-01,Laptop,Electronics,North,1,50000,50000,6000
+108,2025-03-10,Keyboard,Accessories,West,6,1200,7200,1500
+109,2025-03-18,Mobile,Electronics,South,3,15000,45000,7000
+110,2025-03-25,Monitor,Electronics,East,2,12000,24000,3500
